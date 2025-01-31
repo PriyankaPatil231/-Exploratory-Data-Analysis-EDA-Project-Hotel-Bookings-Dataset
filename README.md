@@ -1,12 +1,12 @@
 # -Exploratory-Data-Analysis-EDA-Project-Hotel-Bookings-Dataset
 
 
-Project Overview:
+# -Project Overview:
 
 This project analyzes hotel booking data using Pandas, Matplotlib, and Seaborn to uncover key insights. The goal is to understand booking trends, cancellations, customer behavior, revenue patterns, and geographical distribution of guests. By identifying peak seasons, cancellation reasons, and pricing impacts, this EDA helps hotels optimize their strategies for better revenue management and customer satisfaction.
 
 
-Goals of the Project:
+# -Goals of the Project:
 
 1.  Understand Booking Trends – Analyze booking patterns across different months and hotel types.
 2.  Identify Cancellation Factors – Examine reasons and trends in reservation cancellations.
@@ -18,9 +18,8 @@ Goals of the Project:
 7.  Seasonal Trends – Detect peak and low booking periods for better planning and revenue management.
 8.  Data Cleaning & Preprocessing – Handle missing values, remove outliers, and structure the dataset for better analysis.
 9.  Visual Insights – Use Matplotlib and Seaborn to create visualizations that make data-driven insights easier to interpret.
-10.  
 
-Technologies Used:
+# -Technologies Used:
 
 The following libraries were used for data manipulation, analysis, and visualization:
 
